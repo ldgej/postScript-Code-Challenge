@@ -1,0 +1,23 @@
+.postscript {
+	display: flex;
+	/* background-color: #282c34; */
+	background-color: white;
+    min-height: 50vh;
+}
+
+.leftMenu {
+	background-color: whitesmoke;
+	flex: 1
+}
+
+.rightContent {
+	background-color: gray;
+	flex: 6
+}
+.navItem{
+	width: 100%;
+}
+
+.form{
+	background-color:  #282c34;
+}

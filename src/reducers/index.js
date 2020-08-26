@@ -1,6 +1,6 @@
 import { combineReducers } from "redux";
-import artistReducer from './artistReducer';
-
+import postScriptReducer from './postScriptReducer';
 export default combineReducers({
-    artistReducer
+    postScriptReducer
+   
 });
